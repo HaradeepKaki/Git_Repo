@@ -1,7 +1,3 @@
 Change 1 in File 1
 Change 2 in File 1
-<<<<<<< HEAD
-idea
-=======
 IDEA
->>>>>>> a705cb2 (Commited with IDEA)
