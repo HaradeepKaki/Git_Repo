@@ -5,3 +5,4 @@ idea
 Change 3
 Local Master Check
 Changes made from github using remote repo
+change for bug 3 in remote by team mate
