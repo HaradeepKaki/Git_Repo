@@ -3,6 +3,7 @@ Change 2 in File 1
 IDEA
 idea
 Change 3
-Local Master Check
+Local Master Check.
 Changes made from github using remote repo
 change for bug 3 in remote by team mate
+new commit for conflit
