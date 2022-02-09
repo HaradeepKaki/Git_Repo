@@ -3,3 +3,4 @@ Change 2 in File 1
 IDEA
 idea
 Change 3
+Local Master Check
